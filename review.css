@@ -1,0 +1,89 @@
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color: #8ECEE8;
+         margin: 0 auto;
+         width: 800px;
+    }
+​
+    header {
+        background-color:#E8E037;
+        padding:20px;
+        border: 3px solid black;
+        font-size: 30px;
+        display: block;
+        width: 100%auto;
+        text-align: center;
+    }
+​
+​
+    .bananas-pic {
+      height: 75px;
+      width: 300px;
+      border-radius: 20px;
+    }
+​
+    .monkey-pic{
+      height: 300px;
+      width: 300px;
+      border-color: #FFFAA6;
+      border-radius: 20px;
+      border-width:2px;
+​
+​
+    }
+​
+    .name {
+      font-size: 100px;
+      padding: 2px;
+      margin: 2px;
+    }
+​
+    nav {
+        background-color:#FFFAA6;
+        display: inline;
+        width: 516px;
+        height: 100px;
+​
+        text-align: center;
+        margin: 0 auto;
+​
+​
+    }
+    nav ul li {
+        list-style-type: none;
+        display: inline;
+        font-size: 25px;
+    }
+​
+    a {
+        color: ;
+    }
+    section {
+        width:516px;
+        display:block;
+        clear: both;
+        margin: 0 auto;
+        text-align: center;
+​
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
