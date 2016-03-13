@@ -1,3 +1,6 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
 
     html {
       height: 100%;
@@ -8,7 +11,7 @@
          margin: 0 auto;
          width: 800px;
     }
-​
+
     header {
         background-color:#E8E037;
         padding:20px;
@@ -18,47 +21,47 @@
         width: 100%auto;
         text-align: center;
     }
-​
-​
+
+
     .bananas-pic {
       height: 75px;
       width: 300px;
       border-radius: 20px;
     }
-​
+
     .monkey-pic{
       height: 300px;
       width: 300px;
       border-color: #FFFAA6;
       border-radius: 20px;
       border-width:2px;
-​
-​
+
+
     }
-​
+
     .name {
       font-size: 100px;
       padding: 2px;
       margin: 2px;
     }
-​
+
     nav {
         background-color:#FFFAA6;
         display: inline;
         width: 516px;
         height: 100px;
-​
+
         text-align: center;
         margin: 0 auto;
-​
-​
+
+
     }
     nav ul li {
         list-style-type: none;
         display: inline;
         font-size: 25px;
     }
-​
+
     a {
         color: ;
     }
@@ -68,7 +71,7 @@
         clear: both;
         margin: 0 auto;
         text-align: center;
-​
+
     }
     aside {
       width: 125px;

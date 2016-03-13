@@ -1,16 +1,16 @@
 /* Note to students: Some properties are given to you to fill out,
 others you can modify as they stand, and if you have time,
 there are definitely some properties you should add!*/
-​
+
     html {
       height: 100%;
       background-color:F0F0F0;
-​
+
     }
     body {
        height: 100%;
     }
-​
+
     header {
         background-color:F0F0F0;
         padding-top:20px;
